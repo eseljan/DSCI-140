@@ -1,9 +1,3 @@
----
-
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 # DSCI 140-01: Introduction to Data Science
 
