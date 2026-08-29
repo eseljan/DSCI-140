@@ -67,9 +67,8 @@ Most Mondays, we spend the first 10 minutes of class discussing a short piece of
 | Fri | Oct 30 | HW7 due                                            |
 | Mon | Nov 2  | Project Proposal due                               |
 | Fri | Nov 6  | HW8 due                                            |
-| Mon | Nov 9  | Visualization Rough Draft due                      |
-| Fri | Nov 20 | Draft #1 — bring to class                          |
+| Mon | Nov 16 | Visualization Rough Draft due                      |
+| Wed | Dec 2  | Draft — submit and bring to class                  |
 | Fri | Dec 4  | HW9 due                                            |
-| Mon | Dec 7  | Full Project Rough Draft due (submit Sunday night) |
 | Wed | Dec 9  | Final Project due                                  |
 | Wed | Dec 16 | Final Exam, 1:00 PM                                |
