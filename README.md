@@ -54,7 +54,7 @@ Most Mondays, we spend the first 10 minutes of class discussing a short piece of
 
 | Day | Date   | Deadline                                           | Monday Reading |
 |-----|--------|-----------------------------------------------------|----------------|
-| Wed | Sep 9  |                                                     | "A Simple Experiment Reveals Why It's So Hard to Measure R.F.K. Jr.'s Support" — Ruth Igielnik, NYT *(link TBD — see note)* |
+| Wed | Sep 9  |                                                     | ["A Simple Experiment Reveals Why It's So Hard to Measure R.F.K. Jr.'s Support"](https://drive.google.com/file/d/1dmPLl3gN7HBG02WMoY_hwtqcI8C-h-4l/view?usp=drive_link) — Ruth Igielnik, NYT |
 | Fri | Sep 11 | HW1 due                                            | |
 | Mon | Sep 14 | Data Diary Phase 1 (Variables) — bring to class    | |
 | Wed | Sep 16 | Data Diary Phase 2 (Data Dictionary)               | |
@@ -81,9 +81,3 @@ Most Mondays, we spend the first 10 minutes of class discussing a short piece of
 | Fri | Dec 4  | HW9 due                                            | |
 | Wed | Dec 9  | Final Project due                                  | |
 | Wed | Dec 16 | Final Exam, 1:00 PM                                | |
-
-**Notes on the Monday Reading column:**
-- Full six-question breakdowns for each of these (plus 13 more not currently scheduled) live in the instructor guide — see [Course Materials](https://drive.google.com/drive/folders/1KAB0hj3UfqPetbcWQxHviPkAok8rbXpK?usp=drive_link).
-- PDF backups of every scheduled reading are archived locally in case a link goes dead — which already happened once with the Bronner piece (FiveThirtyEight folded into ABC News; original URL now redirects).
-- **RFK/Igielnik has no confirmed URL yet** — needs the actual NYT link before distributing to students.
-- Dec 7 (Full Project Rough Draft) no longer appears on this table — if that deadline still exists, it's now the one open Monday not carrying a reading.
