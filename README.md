@@ -52,23 +52,38 @@ Most Mondays, we spend the first 10 minutes of class discussing a short piece of
 
 *Dates below reflect deadlines from the syllabus. Day-by-day lesson topics to be added — see note.*
 
-| Day | Date   | Deadline                                           |
-|-----|--------|----------------------------------------------------|
-| Fri | Sep 11 | HW1 due                                            |
-| Mon | Sep 14 | Data Diary Phase 1 (Variables) — bring to class    |
-| Wed | Sep 16 | Data Diary Phase 2 (Data Dictionary)               |
-| Fri | Sep 18 | HW2 due                                            |
-| Fri | Sep 25 | HW3 due                                            |
-| Sun | Sep 27 | Data Diary Phase 3 due                             |
-| Fri | Oct 2  | HW4 due                                            |
-| Wed | Oct 7  | Midterm (in class)                                 |
-| Fri | Oct 16 | HW5 due                                            |
-| Fri | Oct 23 | HW6 due                                            |
-| Fri | Oct 30 | HW7 due                                            |
-| Mon | Nov 2  | Project Proposal due                               |
-| Fri | Nov 6  | HW8 due                                            |
-| Mon | Nov 16 | Visualization Rough Draft due                      |
-| Wed | Dec 2  | Draft — submit and bring to class                  |
-| Fri | Dec 4  | HW9 due                                            |
-| Wed | Dec 9  | Final Project due                                  |
-| Wed | Dec 16 | Final Exam, 1:00 PM                                |
+| Day | Date   | Deadline                                           | Monday Reading |
+|-----|--------|-----------------------------------------------------|----------------|
+| Wed | Sep 9  |                                                     | "A Simple Experiment Reveals Why It's So Hard to Measure R.F.K. Jr.'s Support" — Ruth Igielnik, NYT *(link TBD — see note)* |
+| Fri | Sep 11 | HW1 due                                            | |
+| Mon | Sep 14 | Data Diary Phase 1 (Variables) — bring to class    | |
+| Wed | Sep 16 | Data Diary Phase 2 (Data Dictionary)               | |
+| Fri | Sep 18 | HW2 due                                            | |
+| Mon | Sep 21 |                                                     | ["The World Happiness Report Is a Sham"](https://www.persuasion.community/p/the-world-happiness-report-is-a-sham) — Yascha Mounk |
+| Fri | Sep 25 | HW3 due                                            | |
+| Sun | Sep 27 | Data Diary Phase 3 due                             | |
+| Mon | Sep 28 |                                                     | ["The Median Isn't the Message"](https://journalofethics.ama-assn.org/article/median-isnt-message/2013-01) — Stephen Jay Gould *(gated; archived copy available)* |
+| Fri | Oct 2  | HW4 due                                            | |
+| Wed | Oct 7  | Midterm (in class)                                 | |
+| Mon | Oct 12 |                                                     | "Why Statistics Don't Capture the Full Extent of the Systemic Bias in Policing" — Laura Bronner *(original link dead; archived copy available)* |
+| Fri | Oct 16 | HW5 due                                            | |
+| Mon | Oct 19 |                                                     | ["Berkson's Paradox"](https://puzzlewocky.com/paradoxes/berksons-paradox/) — Puzzlewocky |
+| Fri | Oct 23 | HW6 due                                            | |
+| Mon | Oct 26 |                                                     | "Storks Deliver Babies (p = 0.008)" — Robert Matthews, 2000 *(paywalled at publisher; archived copy available)* |
+| Fri | Oct 30 | HW7 due                                            | |
+| Mon | Nov 2  | Project Proposal due                               | |
+| Fri | Nov 6  | HW8 due                                            | |
+| Mon | Nov 9  |                                                     | ["Machine Bias"](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) — Julia Angwin et al., ProPublica |
+| Mon | Nov 16 | Visualization Rough Draft due                      | |
+| Mon | Nov 23 |                                                     | ["When Average Isn't Good Enough: Simpson's Paradox in Education and Earnings"](https://www.brookings.edu/articles/when-average-isnt-good-enough-simpsons-paradox-in-education-and-earnings/) — Brookings |
+| Mon | Nov 30 |                                                     | ["AI Hiring Tools Can Yield Racial Bias and Systemic Rejection"](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection) — Stanford HAI |
+| Wed | Dec 2  | Draft — submit and bring to class                  | |
+| Fri | Dec 4  | HW9 due                                            | |
+| Wed | Dec 9  | Final Project due                                  | |
+| Wed | Dec 16 | Final Exam, 1:00 PM                                | |
+
+**Notes on the Monday Reading column:**
+- Full six-question breakdowns for each of these (plus 13 more not currently scheduled) live in the instructor guide — see [Course Materials](https://drive.google.com/drive/folders/1KAB0hj3UfqPetbcWQxHviPkAok8rbXpK?usp=drive_link).
+- PDF backups of every scheduled reading are archived locally in case a link goes dead — which already happened once with the Bronner piece (FiveThirtyEight folded into ABC News; original URL now redirects).
+- **RFK/Igielnik has no confirmed URL yet** — needs the actual NYT link before distributing to students.
+- Dec 7 (Full Project Rough Draft) no longer appears on this table — if that deadline still exists, it's now the one open Monday not carrying a reading.
