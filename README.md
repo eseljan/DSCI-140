@@ -56,7 +56,7 @@ Most Mondays, we spend the first 10 minutes of class discussing a short piece of
 |-----|--------|-----------------------------------------------------|----------------|
 | Wed | Sep 9  |                                                     | ["A Simple Experiment Reveals Why It's So Hard to Measure R.F.K. Jr.'s Support"](https://drive.google.com/file/d/1dmPLl3gN7HBG02WMoY_hwtqcI8C-h-4l/view?usp=drive_link) — Ruth Igielnik, NYT |
 | Fri | Sep 11 | HW1 due                                            | |
-| Mon | Sep 14 | Data Diary Phase 1 (Variables) — bring to class    | |
+| Mon | Sep 14 | Data Diary Phase 1 (Variables) — bring to class    | |["We are in a Big Covid Wave. But Just How Big?"](https://drive.google.com/file/d/1MRSZJSXlrcEtL3GlMOk1huN_5U_h1BLe/view?usp=sharing)
 | Wed | Sep 16 | Data Diary Phase 2 (Data Dictionary) - @parveneh   | |
 | Fri | Sep 18 | HW2 due                                            | |
 | Mon | Sep 21 |                                                     | ["The World Happiness Report Is a Sham"](https://www.persuasion.community/p/the-world-happiness-report-is-a-sham) — Yascha Mounk |
