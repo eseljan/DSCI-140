@@ -69,7 +69,7 @@ Most Mondays, we spend the first 10 minutes of class discussing a short piece of
 | Fri | Oct 16 | HW5 due                                            | |
 | Mon | Oct 19 |                                                     | ["Berkson's Paradox"](https://puzzlewocky.com/paradoxes/berksons-paradox/) — Puzzlewocky |
 | Fri | Oct 23 | HW6 due                                            | |
-| Mon | Oct 26 |                                                     | "Storks Deliver Babies (p = 0.008)" — Robert Matthews, 2000 *(paywalled at publisher; archived copy available)* |
+| Mon | Oct 26 |                                                     | "Storks Deliver Babies (p = 0.008)" — Robert Matthews, 2000 *(https://drive.google.com/file/d/1U9deUOSVJZGHt9ArnyR1_L3kASyVqekO/view?usp=drive_link) |
 | Fri | Oct 30 | HW7 due                                            | |
 | Mon | Nov 2  | Project Proposal due                               | |
 | Fri | Nov 6  | HW8 due                                            | |
