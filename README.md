@@ -72,8 +72,8 @@ Most Mondays, we spend the first 10 minutes of class discussing a short piece of
 | Mon | Oct 26 |                                                     | "Storks Deliver Babies (p = 0.008)" — Robert Matthews, 2000 *(https://drive.google.com/file/d/1U9deUOSVJZGHt9ArnyR1_L3kASyVqekO/view?usp=drive_link) |
 | Fri | Oct 30 | HW7 due                                            | |
 | Mon | Nov 2  | Project Proposal due                               | |
-| Fri | Nov 6  | HW8 due                                            | |
-| Mon | Nov 9  |                                                     | ["Machine Bias"](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) — Julia Angwin et al., ProPublica |
+| Fri | Nov 13  | HW8 due                                            | |
+| Fri | Nov 16  |                                                     | ["Machine Bias"](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) — Julia Angwin et al., ProPublica |
 | Mon | Nov 16 | Visualization Rough Draft due                      | |
 | Mon | Nov 23 |                                                     | ["When Average Isn't Good Enough: Simpson's Paradox in Education and Earnings"](https://www.brookings.edu/articles/when-average-isnt-good-enough-simpsons-paradox-in-education-and-earnings/) — Brookings |
 | Mon | Nov 30 |                                                     | ["AI Hiring Tools Can Yield Racial Bias and Systemic Rejection"](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection) — Stanford HAI |
